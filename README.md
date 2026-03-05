@@ -63,7 +63,7 @@ lost-found-backend/
 ### 安装与运行
 1. **克隆仓库**：
    ```bash
-   git clone https://github.com/你的GitHub用户名/lost-found-backend.git
+   git clone https://github.com/admin118866admin118866/lost-found-backend.git
    cd lost-found-backend
    ```
 
@@ -118,4 +118,5 @@ lost-found-backend/
 本项目是一个完整的Java后端服务，展示了Spring Boot、MyBatis Plus、JWT等主流后端技术的应用。通过本项目，可以了解如何构建一个具有认证授权、数据管理、统计分析等功能的后端系统，适合作为Java后端开发的学习和实践案例。
 
 ## 许可证
+
 MIT License
