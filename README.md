@@ -63,7 +63,7 @@ lost-found-backend/
 ### 安装与运行
 1. **克隆仓库**：
    ```bash
-   git clone https://github.com/admin118866admin118866/lost-found-backend.git
+   git clone https://github.com/zhengL123/lost-found-backend.git
    cd lost-found-backend
    ```
 
@@ -120,3 +120,4 @@ lost-found-backend/
 ## 许可证
 
 MIT License
+
